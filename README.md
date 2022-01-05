@@ -1,4 +1,5 @@
-# redex-tutorial-learning
+#Amb: A Redex Tutorial
 
-Aprendendo
+
+https://docs.racket-lang.org/redex/tutorial.html
 
